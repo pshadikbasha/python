@@ -1,0 +1,6 @@
+durga notes
+1. Introduction to python:
+python is a genral purpose high level programming language. It was developed by guido van roussum in 1989, and made avaliable to public at 1991 at national reasearch of institute at netherlands at feb 20th 1991.
+
+Python is simple and easy to learn.
+very less code
