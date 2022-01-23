@@ -4,3 +4,40 @@ python is a genral purpose high level programming language. It was developed by 
 
 Python is simple and easy to learn.
 very less code
+
+the name python was derived from famous comedy show,, the complete montys python circus show.
+
+Python is an all rounder:
+python has functional features, oops features and scripting features.
+
+Whesre we can use python:
+1. Desktop Applications
+2. Web Applications
+3. Network Applications
+4. Games Development
+5. Data Analysis
+6. Machine learning 
+7. Deep learning
+8. Neural Networks, 
+9. Artificial Intelligence.
+10. Internet of Things.
+
+Features of python:
+1. Simple and easy to learn
+2. Free ware and open source
+3. High level Programming language.
+4. Platform independent
+5. Dynamically Typed language.
+6. Portability
+7. extensible
+8. Embedded
+9. Extensive library
+10. Object oriented features.
+11. Interpreted.
+
+Limitations of python:
+1. Mobile Applications.
+2. Banking applications.
+
+Language Fundamentals:
+
