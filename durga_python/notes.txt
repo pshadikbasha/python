@@ -40,4 +40,19 @@ Limitations of python:
 2. Banking applications.
 
 Language Fundamentals:
-
+Identifiers:
+A Name in python program is called an identifier.
+Rules to define identifiers:
+1. Identifiers should not start with numbers
+2. No length limit for identifiers.
+3. Keywords should not used as identifiers.
+4. identifiers should only contain alpha, numerics and underscore.
+5. Identifiers are case sensitive.
+x-> variable
+_x->protected varaible
+__x->private variable
+__x__->magic variable.
+Reserved words:
+import Keyword
+print(keyword.kwlist)
+print(len(keyword.kwlist))
