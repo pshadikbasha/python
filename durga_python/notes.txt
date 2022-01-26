@@ -56,3 +56,18 @@ Reserved words:
 import Keyword
 print(keyword.kwlist)
 print(len(keyword.kwlist))
+data types:
+1. int
+2. float
+3. complex
+4. string
+5. boolean
+6. list
+7. tuple
+8. set
+9. frozenset
+10. dict
+11. range
+12. None
+13. bytes
+14. bytearray.
