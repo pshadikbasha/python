@@ -85,3 +85,15 @@ hex()
 2. float data type:
 To represent values in decimal points. 
 a=123.23345
+3. complex
+a=10+20j
+print(type(a))
+print(a.real)
+print(a.imag)
+4. bool data type
+a=True
+b=False,
+5.Strings:
+strings is a sequence of characters..
+it will represent in single quotes, double quotes, and triple quotes.
+
