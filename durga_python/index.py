@@ -10,3 +10,4 @@ print(hex(123))
 a=1.3e3
 print(int(a))
 print(False-True)
+print('hello shadik')
